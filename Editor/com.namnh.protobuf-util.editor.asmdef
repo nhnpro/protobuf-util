@@ -1,0 +1,16 @@
+{
+    "name": "com.namnh.protobuf-util.editor",
+    "references": [
+        "com.namnh.protobuf-util"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
