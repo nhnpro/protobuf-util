@@ -8,7 +8,7 @@ protobuf-util upm for unity (private use only)
   "dependencies":
   { 
     ... 
-    "com.namnh.protobuf-util": "https://github.com/nhnpro/protobuf-util.git#0.7.0",
+    "com.namnh.protobuf-util": "https://github.com/nhnpro/protobuf-util.git#0.8.0",
     ... 
    } 
 }
