@@ -12,3 +12,6 @@ protobuf-util upm for unity (private use only)
     ... 
    } 
 }
+
+
+protoc folder contains binaries file if you need
